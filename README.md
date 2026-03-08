@@ -62,20 +62,6 @@ Reset button should be connected to **GND** (using INPUT_PULLUP).
 
 ---
 
-## Project Structure
-
-```
-ESP32-File-Tampering-System/
-│
-├── FileTamperDetection.ino
-├── README.md
-├── circuit_diagram.png
-└── images/
-    ├── system_demo.jpg
-    └── wiring.jpg
-```
-
----
 
 ## How the System Works
 
@@ -166,11 +152,6 @@ Backup stored in ESP32 flash:
 ---
 
 ## Author
+Adeel Ahmed Latif
 
-Your Name
 
----
-
-## License
-
-This project is open-source and available under the **MIT License**.
