@@ -160,3 +160,16 @@ Backup stored in ESP32 flash:
 Adeel Ahmed Latif
 
 
+## 📺 Video Demonstration
+Click the image below to watch the full project walkthrough and tamper detection demo:
+
+## 📺 Project Demo
+Watch the full system in action, from file modification to real-time alerts.
+
+[![ESP32 Tamper Detection Demo](https://img.youtube.com/vi/82hJq-HRr5M/0.jpg)](https://youtube.com/shorts/82hJq-HRr5M)
+
+**In this video:**
+* **Real-time Monitoring:** The system continuously verifies file integrity using SHA256.
+* **Tamper Alert:** Removing the SD card or changing a single byte triggers a hardware alarm (Buzzer & LED).
+* **Cloud Integration:** Instant push notifications sent via the Blynk IoT app.
+* **System Recovery:** Using a physical button to reset the alert state.
