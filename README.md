@@ -49,7 +49,12 @@ This project ensures **data integrity** by continuously monitoring a file stored
 Reset button should be connected to **GND** (using INPUT_PULLUP).
 
 ---
+## 🛠️ Hardware Setup
 
+To build this project, connect the components as shown in the diagram below.
+
+![Circuit Diagram](images/circuit%20diagram.png)
+For more photos of the physical build, visit the [Images folder](./images).
 ## Software Requirements
 
 - Arduino IDE
